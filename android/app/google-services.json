@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956587167943",
+    "firebase_url": "https://ecandytuff.firebaseio.com",
+    "project_id": "ecandytuff",
+    "storage_bucket": "ecandytuff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956587167943:android:2a9746e0492385e9622ee2",
+        "android_client_info": {
+          "package_name": "marwanbukhori.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956587167943-tf4c2r8t1fqu1i1v22u2lpatc3342jur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "marwanbukhori.shop_app",
+            "certificate_hash": "9b824fce653e1d0d3b6ad51c1440aff0875e028e"
+          }
+        },
+        {
+          "client_id": "956587167943-67siu5t6ph0ih48vgpncdopsffg1tihk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7NLFfUSZzDozsxBu9Eo4bqvq3gGKIeQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956587167943-67siu5t6ph0ih48vgpncdopsffg1tihk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
